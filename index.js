@@ -8,7 +8,7 @@ server.use((req, res, next) => {
   next()
 })
 
-const router = json_server.router("./data/db.json")
+const router = json_server.router("./Data/db.json")
 server.use("/api", router)
 server.db = router.db
 
