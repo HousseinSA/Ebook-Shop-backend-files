@@ -403,34 +403,10 @@
   ],
   "users": [
     {
-      "email": "shit@gmail.com",
-      "password": "$2a$10$ubkehl/CXxxWemoI9ab0GOFsocMjdbYQTcJetHVcZk4oZwPcU0K42",
-      "name": "houssein",
+      "email": "guest@gmail.com",
+      "password": "$2a$10$vs1cwNd/F79dUS52d2TkJ.ZF2u3ORadszYjjj3MqdOFAVxtEvQRoi",
+      "name": "guest",
       "id": 1
-    },
-    {
-      "email": "neji@gmail.com",
-      "password": "$2a$10$3phke6i/sH2Joubjh7BLs.fXQkgBW4KcYYUpcM59fgOyH2o6vC7p6",
-      "name": "neji",
-      "id": 2
-    },
-    {
-      "email": "houssein@gmail.com",
-      "password": "$2a$10$n8pajEHbbZgvOY8G13CYaeARimWK.nwC/tqwt119Zy4PT14jeXZWi",
-      "name": "fdfdaf",
-      "id": 3
-    },
-    {
-      "email": "fdf@gmail.com",
-      "password": "$2a$10$17CyUFZB7nDrdDlpYN.OAOjFd5FFQ8HwoIA1oVazXqTULhPfP9X3u",
-      "name": "shitfd",
-      "id": 4
-    },
-    {
-      "email": "user@gmail.com",
-      "password": "$2a$10$4wB2/4eKot4k6nYHv681q.bNq.VJpl4nYrv0BbICLhq1tSrVYk.ha",
-      "name": "user",
-      "id": 5
     }
   ]
 }
